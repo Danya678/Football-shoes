@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Футбольне взуття у Луцьку</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Футбольне взуття у Луцьку</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Головна</a></li>
+                <li><a href="#about">Про нас</a></li>
+                <li><a href="#products">Товари</a></li>
+                <li><a href="#contact">Контакти</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Ласкаво просимо!</h2>
+        <p>Ми спеціалізуємося на продажі футбольного взуття у Луцьку. У нас ви знайдете найкраще взуття для професійних та аматорських гравців.</p>
+    </section>
+
+    <section id="about">
+        <h2>Про нас</h2>
+        <p>Наш магазин був заснований у 2020 році з метою забезпечити футбольних гравців найкращими моделями бутс та інших видів взуття для гри на різних покриттях. Ми пропонуємо продукцію від провідних світових брендів.</p>
+    </section>
+
+    <section id="products">
+        <h2>Наші товари</h2>
+        <ul>
+            <li><strong>Adidas Predator</strong> — спеціальні бутси для штучних полів.</li>
+            <li><strong>Nike Mercurial</strong> — взуття для швидких атакувальних гравців.</li>
+            <li><strong>Puma Future</strong> — для ідеального контролю м'яча на будь-якій поверхні.</li>
+        </ul>
+        <p>Ознайомтесь з нашим повним каталогом за <a href="https://example.com" target="_blank">цим посиланням</a>.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Контакти</h2>
+        <p>Зв'яжіться з нами:</p>
+        <ul>
+            <li>Email: <a href="mailto:footballshoes.lutsk@example.com">footballshoes.lutsk@example.com</a></li>
+            <li>Адреса: просп. Волі, 10, м. Луцьк</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Футбольне взуття у Луцьку. Всі права захищені.</p>
+    </footer>
+</body>
+</html>
